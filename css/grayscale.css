@@ -271,6 +271,10 @@ body {
   letter-spacing: 0.0625em;
 }
 
+.quote {
+  font-size: 1.3rem;
+}
+
 a {
   color: #896b2e;
 }
